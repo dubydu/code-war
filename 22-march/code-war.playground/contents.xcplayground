@@ -7,5 +7,7 @@
         <page name='dictionary-merge'/>
         <page name='rainfall'/>
         <page name='reverse-or-rotate'/>
+        <page name='find-the-smallest'/>
+        <page name='best-travel'/>
     </pages>
 </playground>
