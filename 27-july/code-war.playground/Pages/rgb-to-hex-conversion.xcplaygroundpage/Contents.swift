@@ -18,7 +18,7 @@ func rgb(_ r: Int, _ g: Int, _ b: Int) -> String {
         return value
     }
     */
-    rgb = rgb.map{max(min($0, 255), 0)}
+    rgb = rgb.map { max(min($0, 255), 0) }
     // Convert to hex
     return rgb.map { String(format: "%02X", $0) }.joined()
 }
