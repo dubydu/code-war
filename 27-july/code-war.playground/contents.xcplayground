@@ -4,5 +4,6 @@
         <page name='rgb-to-hex-conversion'/>
         <page name='hex-to-rgb-conversion'/>
         <page name='perimeter-of-squares-in-rectangle'/>
+        <page name='weight-for-weight'/>
     </pages>
 </playground>
