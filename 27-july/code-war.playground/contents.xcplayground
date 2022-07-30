@@ -5,5 +5,6 @@
         <page name='hex-to-rgb-conversion'/>
         <page name='perimeter-of-squares-in-rectangle'/>
         <page name='weight-for-weight'/>
+        <page name='int32-to-ipv4'/>
     </pages>
 </playground>
