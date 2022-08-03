@@ -7,5 +7,6 @@
         <page name='weight-for-weight'/>
         <page name='int32-to-ipv4'/>
         <page name='is-my-friend-cheating'/>
+        <page name='next-bigger-num-with-same-digits'/>
     </pages>
 </playground>
