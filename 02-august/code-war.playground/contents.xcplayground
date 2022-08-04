@@ -5,5 +5,6 @@
         <page name='random-triplets'/>
         <page name='sum-by-factors'/>
         <page name='greater-number'/>
+        <page name='printer-error'/>
     </pages>
 </playground>
