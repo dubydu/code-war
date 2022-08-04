@@ -3,5 +3,7 @@
     <pages>
         <page name='human-readable-duration-format'/>
         <page name='random-triplets'/>
+        <page name='sum-by-factors'/>
+        <page name='greater-number'/>
     </pages>
 </playground>
