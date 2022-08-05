@@ -6,5 +6,6 @@
         <page name='sum-by-factors'/>
         <page name='greater-number'/>
         <page name='printer-error'/>
+        <page name='binomial-coefficient'/>
     </pages>
 </playground>
