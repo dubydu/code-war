@@ -7,5 +7,8 @@
         <page name='greater-number'/>
         <page name='printer-error'/>
         <page name='binomial-coefficient'/>
+        <page name='last-digit-of-huge-number'/>
+        <page name='prod-of-conclusive-fib-numbers'/>
+        <page name='integers-recreation-one'/>
     </pages>
 </playground>
