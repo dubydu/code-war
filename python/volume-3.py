@@ -1,13 +1,12 @@
 from pymongo import MongoClient
 import certifi
 
-
 def get_database():
 
     # Provide the mongodb atlas url to connect python to mongodb using pymongo
     CONNECTION_STRING = "mongodb+srv://dubvcontact:7tYakqyBTuEHxjXa@keocandy.7eqooab.mongodb.net/?retryWrites=true&w=majority"
 
-    # Create a connection using MongoClient. You can import MongoClient or use pymongo.MongoClient
+    # Create a connection using MongoClient.
     client = MongoClient(CONNECTION_STRING, tlsCAFile=certifi.where())
 
     # Send a ping to confirm a successful connection
