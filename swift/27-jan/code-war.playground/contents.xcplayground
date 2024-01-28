@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Number of trailing zeros of N!'/>
+        <page name='Roman Numerals Encoder'/>
+        <page name='Sum of odd numbers'/>
+        <page name='Numericals of a String'/>
+        <page name='Find the smallest'/>
+        <page name='Tank Truck'/>
+        <page name='Generic numeric template formatter'/>
+    </pages>
+</playground>
